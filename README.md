@@ -17,6 +17,7 @@
 
 ## 📁 Dataset
 - Source: Kaggle (Amazon Reviews 2023)
+- Download Link: https://www.kaggle.com/datasets/ravirajbabasomane/amazon-reviews-2023
 
 ## 🧠 Sentiment Analysis
 Each review is classified as **Positive**, **Negative**, or **Neutral** based on its text content.
